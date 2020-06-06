@@ -5,4 +5,3 @@ Amazing experience to solve the problems on Hackerrank daily for 30 days. Proble
 Everyone should try this on Hackerrank. 
 
 ________________________
-Will be posting daily for daily problems.
